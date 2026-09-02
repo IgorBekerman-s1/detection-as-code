@@ -1,6 +1,6 @@
 id: rule1
 name: Suspicious PowerShell Download Cradle
-description: Detects PowerShell commands commonly used to download and execute remote payloads
+description: Igor Detections As Code  Demo - Detects PowerShell commands commonly used to download and execute remote payloads
 severity: High
 expirationMode: Permanent
 queryType: events
